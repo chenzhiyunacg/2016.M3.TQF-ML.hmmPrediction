@@ -1,4 +1,3 @@
-
 # 2016.M3.TQF-ML.hmmPrediction
 **Project description**
 
@@ -27,7 +26,9 @@ including Open, close, high, low of Shanghai Stock composite index and other ind
 daily data from Jan 4, 2000 to Dec 31, 2016 
 
 **Implementation**
+
 [hmm_ML.ipynb](https://github.com/chenzhiyunacg/2016.M3.TQF-ML.hmmPrediction/blob/master/hmm_ML.ipynb)
+
 [hmm_ML.py](https://github.com/chenzhiyunacg/2016.M3.TQF-ML.hmmPrediction/blob/master/hmm_ML.py)
 
 **Conclusion**
