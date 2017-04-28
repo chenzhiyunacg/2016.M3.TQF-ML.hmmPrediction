@@ -1,7 +1,8 @@
+
 # 2016.M3.TQF-ML.hmmPrediction
 **Project description**
 
-Hidden Markov model was first applied to speech recognition, and then in other areas have been widely used, such as natural language processing, biological gene sequence analysis and face recognition and so on. This project tries to apply hidden markov model in stock market's prediction. See the [proposal].
+Hidden Markov model was first applied to speech recognition, and then in other areas have been widely used, such as natural language processing, biological gene sequence analysis and face recognition and so on. This project tries to apply hidden markov model in stock market's prediction. See the [proposal](https://github.com/chenzhiyunacg/2016.M3.TQF-ML.hmmPrediction/blob/master/Proposal_Chen%20Zhiyun.pdf).
 
 **Features**
 
@@ -24,6 +25,10 @@ extract data from Wind database.
 including Open, close, high, low of Shanghai Stock composite index and other index such as VMA, RSI, PVT.. 
 
 daily data from Jan 4, 2000 to Dec 31, 2016 
+
+**Implementation**
+[hmm_ML.ipynb](https://github.com/chenzhiyunacg/2016.M3.TQF-ML.hmmPrediction/blob/master/hmm_ML.ipynb)
+[hmm_ML.py](https://github.com/chenzhiyunacg/2016.M3.TQF-ML.hmmPrediction/blob/master/hmm_ML.py)
 
 **Conclusion**
 
