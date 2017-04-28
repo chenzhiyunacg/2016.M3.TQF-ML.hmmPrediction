@@ -1,15 +1,15 @@
 # 2016.M3.TQF-ML.hmmPrediction
-**Project description
+**Project description**
 
-Hidden Markov model was first applied to speech recognition, and then in other areas have been widely used, such as natural language processing, biological gene sequence analysis and face recognition and so on. This project tries to apply hidden markov model in stock market's prediction. See the proposal.
+Hidden Markov model was first applied to speech recognition, and then in other areas have been widely used, such as natural language processing, biological gene sequence analysis and face recognition and so on. This project tries to apply hidden markov model in stock market's prediction. See the [proposal].
 
-**Features
+**Features**
 
 lag of trading by daily data
 
 trading fee
 
-**Methods
+**Methods**
 
 1.identify hidden state
 
@@ -17,7 +17,7 @@ trading fee
 
 3.calculate evaluation indicators
 
-**Data
+**Data**
 
 extract data from Wind database.
 
@@ -25,7 +25,7 @@ including Open, close, high, low of Shanghai Stock composite index and other ind
 
 daily data from Jan 4, 2000 to Dec 31, 2016 
 
-**Conclusion
+**Conclusion**
 
 The HMM model based on the daily return has such a high yield and high winning rate because of its ability to form recognition and automatic switching strategy. 
 
