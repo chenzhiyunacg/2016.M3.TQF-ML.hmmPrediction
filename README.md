@@ -19,11 +19,13 @@ trading fee
 
 **Data**
 
-extract data from Wind database.
+see [data](https://github.com/chenzhiyunacg/2016.M3.TQF-ML.hmmPrediction/blob/master/indicators.csv)
 
-including Open, close, high, low of Shanghai Stock composite index and other index such as VMA, RSI, PVT.. 
+I extract data from Wind database.
 
-daily data from Jan 4, 2000 to Dec 31, 2016 
+Including Open, close, high, low of Shanghai Stock composite index and other index such as VMA, RSI, PVT.. 
+
+Daily data from Jan 4, 2000 to Dec 31, 2016 
 
 **Implementation**
 
@@ -32,6 +34,8 @@ daily data from Jan 4, 2000 to Dec 31, 2016
 [hmm_ML.py](https://github.com/chenzhiyunacg/2016.M3.TQF-ML.hmmPrediction/blob/master/hmm_ML.py)
 
 **Conclusion**
+
+See [presentation](https://github.com/chenzhiyunacg/2016.M3.TQF-ML.hmmPrediction/blob/master/Final%20presentation.pdf).
 
 The HMM model based on the daily return has such a high yield and high winning rate because of its ability to form recognition and automatic switching strategy. 
 
